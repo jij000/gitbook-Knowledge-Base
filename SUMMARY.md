@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Readme](README.md)
+* [About Me](README.md)
 * [Design Patterns](design-patterns/README.md)
   * [Creational Design Pattern](design-patterns/creational-design-pattern.md)
 * [LeetCode](untitled/README.md)
