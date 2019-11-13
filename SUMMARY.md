@@ -13,4 +13,5 @@
 * [Web Development](untitled-1/README.md)
   * [Spring Cloud](untitled-1/untitled.md)
   * [Spring MVC](untitled-1/spring-mvc.md)
+  * [Spring Data JPA](untitled-1/spring-data-jpa.md)
 
