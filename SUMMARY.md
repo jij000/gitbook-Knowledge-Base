@@ -5,6 +5,7 @@
   * [Java](programming-languages/java.md)
   * [Python](programming-languages/python.md)
 * [Design Patterns](design-patterns/README.md)
+  * [原则](design-patterns/yuan-ze.md)
   * [Creational Design Pattern](design-patterns/creational-design-pattern.md)
   * [Structural Design Pattern](design-patterns/structural-design-pattern.md)
   * [Behavioral Design Pattern](design-patterns/behavioral-design-pattern.md)
