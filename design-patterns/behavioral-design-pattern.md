@@ -1,6 +1,10 @@
 # Behavioral Design Pattern
 
-## Chain of Responsibilitiy Pattern
+## Chain of Responsibilitiy Pattern 责任链模式
+
+* 为请求创建一个 接收此次请求对象 的链 \(一个请求需要多个对象协作处理\)
+* 
+![](../.gitbook/assets/image%20%285%29.png)
 
 ## Command Pattern 命令模式
 
@@ -51,5 +55,11 @@
 * 定义一个算法的骨架, 允许子类去实现其中的步骤
 * 可以一次性实现算法的不变部分, 把可变部分留给子类实现
 
-## Vistitor Pattern
+## Vistitor Pattern 访问者模式
+
+* 封装作用于某数据结构\(如List/Set/Map等\)中的各元素的操作
+* 可以在不改变各元素的类的前提下, 定义作用于这些元素的操作
+* 通俗来说: 对相同的数据做不同的操作
+
+![](../.gitbook/assets/image%20%286%29.png)
 
