@@ -15,7 +15,11 @@
 
 ## Mediator Pattern
 
-## Memento Pattern
+## Memento Pattern 备忘录模式
+
+* 保存一个对象的某个状态, 以便在适当的时候恢复对象
+
+![](../.gitbook/assets/image%20%283%29.png)
 
 ## Observer Pattern 观察者模式
 
