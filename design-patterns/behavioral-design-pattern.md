@@ -4,7 +4,10 @@
 
 ## Command Pattern
 
-## Interpreter Pattern
+## Interpreter Pattern 解释器模式
+
+* 给定一个语言, 定义它的文法的一种表示, 并定义一个解释器, 这个解释器使用该表示来解释语言中的句子
+* 为了解释一种语言, 而为语言创建的解释器
 
 ## Iterator Pattern 迭代器模式
 
@@ -14,11 +17,19 @@
 
 ## Memento Pattern
 
-## Observer Pattern
+## Observer Pattern 观察者模式
+
+* 定义了对象之间的一对多依赖, 让多个观察者对象同时监听某一个主题对象, 当主题对象发生变化时, 它的所有依赖者\(观察者\)都会收到通知并更新
 
 ## State Pattern 
 
-## Strategy Pattern
+## Strategy Pattern 策略模式
+
+* 定义了算法家族, 分别封装起来, 让它们之间可以互相替换, 此模式让算法的变化不会影响到使用算法的用户
+* 消除大量的if...else...
+* 例如做一个促销策略接口, 各种促销类实现该接口, 然后再促销行为是选择合适的促销类来达到不同的促销方式, 常用于促销, 返利业务场景
+
+![Strategy Pattern Class Diagram](../.gitbook/assets/image%20%281%29.png)
 
 ## Template Pattern 模板方法模式
 
