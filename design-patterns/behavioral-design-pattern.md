@@ -6,7 +6,9 @@
 
 ## Interpreter Pattern
 
-## Iterator Pattern
+## Iterator Pattern 迭代器模式
+
+* 提供一种方法, 顺序访问一个集合对象中的各个元素, 而又不暴露该对象的内部表示
 
 ## Mediator Pattern
 
