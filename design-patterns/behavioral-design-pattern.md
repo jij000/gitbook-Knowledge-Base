@@ -2,7 +2,12 @@
 
 ## Chain of Responsibilitiy Pattern
 
-## Command Pattern
+## Command Pattern 命令模式
+
+* 将"请求"封装成对象, 以便使用不同的请求
+* 解决了应用程序中对象的职责以及它们之间的通信方式
+
+![](../.gitbook/assets/image%20%284%29.png)
 
 ## Interpreter Pattern 解释器模式
 
@@ -13,7 +18,10 @@
 
 * 提供一种方法, 顺序访问一个集合对象中的各个元素, 而又不暴露该对象的内部表示
 
-## Mediator Pattern
+## Mediator Pattern 中介者模式
+
+* 定义一个 "封装一组对象如何交互" 的对象
+* 通过使对象明确的相互引用来促进松散耦合, 并允许独立地改变它们的交互
 
 ## Memento Pattern 备忘录模式
 
