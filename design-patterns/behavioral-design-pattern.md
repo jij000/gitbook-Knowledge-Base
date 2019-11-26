@@ -18,7 +18,9 @@
 
 ## Strategy Pattern
 
-## Template Pattern
+## Template Pattern 模板方法模式
+
+定义一个算法的骨架, 允许子类去实现其中的步骤
 
 ## Vistitor Pattern
 
