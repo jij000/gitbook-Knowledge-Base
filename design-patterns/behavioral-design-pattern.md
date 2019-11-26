@@ -20,6 +20,9 @@
 ## Observer Pattern 观察者模式
 
 * 定义了对象之间的一对多依赖, 让多个观察者对象同时监听某一个主题对象, 当主题对象发生变化时, 它的所有依赖者\(观察者\)都会收到通知并更新
+* 只要被观察的对象内容发生改变, 就自动调用notifyObservers方法去通知观察者类做更新
+
+![Observer Pattern Class Diagram ](../.gitbook/assets/image%20%282%29.png)
 
 ## State Pattern 
 
