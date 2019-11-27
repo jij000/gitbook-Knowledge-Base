@@ -4,14 +4,14 @@
 
 * 为请求创建一个 接收此次请求对象 的链 \(一个请求需要多个对象协作处理\)
 * 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
 ## Command Pattern 命令模式
 
 * 将"请求"封装成对象, 以便使用不同的请求
 * 解决了应用程序中对象的职责以及它们之间的通信方式
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 ## Interpreter Pattern 解释器模式
 
@@ -31,7 +31,7 @@
 
 * 保存一个对象的某个状态, 以便在适当的时候恢复对象
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 ## Observer Pattern 观察者模式
 
@@ -65,5 +65,5 @@
 * 可以在不改变各元素的类的前提下, 定义作用于这些元素的操作
 * 通俗来说: 对相同的数据做不同的操作
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
