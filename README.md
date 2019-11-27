@@ -14,3 +14,7 @@
 
 [Java教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
 
+[Design Patterns in Java](https://www.javatpoint.com/design-patterns-in-java)
+
+[Interview Questions and Answers](https://www.javatpoint.com/interview-questions-and-answers)
+
