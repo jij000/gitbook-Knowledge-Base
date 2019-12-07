@@ -28,5 +28,7 @@
 290. Word Pattern
 205. Isomorphic Strings
 451. Sort Characters By Frequency
+15. 3Sum
+18. 4Sum
 ```
 
