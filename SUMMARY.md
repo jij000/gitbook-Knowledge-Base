@@ -11,6 +11,7 @@
   * [Structural Design Pattern](design-patterns/structural-design-pattern.md)
   * [Behavioral Design Pattern](design-patterns/behavioral-design-pattern.md)
 * [LeetCode](untitled/README.md)
+  * [1. Two Sum](untitled/1.-two-sum.md)
   * [Linked List Cycle](untitled/linked-list-cycle.md)
   * [75. Sort Colors](untitled/75.-sort-colors.md)
   * [80. Remove Duplicates from Sorted Array II](untitled/80.-remove-duplicates-from-sorted-array-ii.md)
