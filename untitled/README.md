@@ -32,5 +32,6 @@
 18. 4Sum
 16. 3Sum Closest
 49. Group Anagrams
+149. Max Points on a Line
 ```
 
