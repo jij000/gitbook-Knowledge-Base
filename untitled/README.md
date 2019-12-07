@@ -2,6 +2,8 @@
 
 ## TODO
 
+### array
+
 ```text
 215. Kth Largest Element in an Array
 
@@ -14,5 +16,17 @@
 3. Longest Substring Without Repeating Characters
 438. Find All Anagrams in a String
 76. Minimum Window Substring
+
+
+```
+
+### search, set and map
+
+```text
+242. Valid Anagram
+202. Happy Number
+290. Word Pattern
+205. Isomorphic Strings
+451. Sort Characters By Frequency
 ```
 
