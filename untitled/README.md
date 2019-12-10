@@ -35,3 +35,14 @@
 149. Max Points on a Line
 ```
 
+### Link list
+
+```text
+92. 
+83.
+86.
+328.
+2.
+445.
+```
+
