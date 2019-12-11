@@ -11,6 +11,7 @@
   * [Structural Design Pattern](design-patterns/structural-design-pattern.md)
   * [Behavioral Design Pattern](design-patterns/behavioral-design-pattern.md)
 * [LeetCode](untitled/README.md)
+  * [Leetcode前300高频题重新分类](untitled/leetcode-qian-300-gao-pin-ti-zhong-xin-fen-lei.md)
   * [1. Two Sum](untitled/1.-two-sum.md)
   * [Untitled](untitled/untitled.md)
   * [Linked List Cycle](untitled/linked-list-cycle.md)
