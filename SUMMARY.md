@@ -23,6 +23,7 @@
   * [80. Remove Duplicates from Sorted Array II](untitled/80.-remove-duplicates-from-sorted-array-ii.md)
   * [88. Merge Sorted Array](untitled/88.-merge-sorted-array.md)
   * [98. Validate Binary Search Tree](untitled/98.-validate-binary-search-tree.md)
+  * [144. Binary Tree Preorder Traversal](untitled/144.-binary-tree-preorder-traversal.md)
   * [167. Two Sum II - Input array is sorted](untitled/167.-two-sum-ii-input-array-is-sorted.md)
   * [203. Remove Linked List Elements](untitled/203.-remove-linked-list-elements.md)
   * [209. Minimum Size Subarray Sum](untitled/209.-minimum-size-subarray-sum.md)
