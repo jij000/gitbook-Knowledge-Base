@@ -49,5 +49,9 @@
 25. Reverse Nodes in k-Group
 147.
 148.
+61.
+143.
+234.
+
 ```
 
