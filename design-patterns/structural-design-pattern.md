@@ -8,7 +8,7 @@
 
 ![&#x5BF9;&#x8C61;&#x9002;&#x914D;&#x5668;\(&#x7EC4;&#x5408;\)](../.gitbook/assets/image%20%285%29.png)
 
-![&#x7C7B;&#x9002;&#x914D;&#x5668;\(&#x7EE7;&#x627F;\)](../.gitbook/assets/image%20%2821%29.png)
+![&#x7C7B;&#x9002;&#x914D;&#x5668;\(&#x7EE7;&#x627F;\)](../.gitbook/assets/image%20%2823%29.png)
 
 ## Bridge Pattern 桥接模式
 
@@ -30,14 +30,14 @@
 
 ![&#x901A;&#x8FC7;&#x88C5;&#x9970;&#x8005;&#x7C7B;&#x6269;&#x5C55;&#x529F;&#x80FD;](../.gitbook/assets/image%20%2812%29.png)
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 ## Facade Pattern 外观模式
 
 * 又叫门面模式, 提供了一个统一的接口, 用来访问子系统中的一群接口
 * 外观模式定义了一个高层接口, 让子系统更容易使用
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 ## Flyweight Pattern 享元模式
 
@@ -46,7 +46,7 @@
 * 多用于缓冲池, 连接池
 * 要注意线程安全
 
-![EMPLOYEE\_MAP&#x4F5C;&#x4E3A;&#x4E00;&#x4E2A;&#x7F13;&#x51B2;&#x6C60;](../.gitbook/assets/image%20%2818%29.png)
+![EMPLOYEE\_MAP&#x4F5C;&#x4E3A;&#x4E00;&#x4E2A;&#x7F13;&#x51B2;&#x6C60;](../.gitbook/assets/image%20%2819%29.png)
 
 ## Proxy Pattern 代理模式
 
