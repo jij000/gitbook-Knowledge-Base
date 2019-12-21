@@ -3,6 +3,7 @@
 * [About Me](README.md)
 * [Programming Languages](programming-languages/README.md)
   * [Java](programming-languages/java/README.md)
+    * [Tools, plugins](programming-languages/java/tools-plugins.md)
     * [JVM](programming-languages/java/jvm.md)
     * [multiple thread 多线程](programming-languages/java/multiple-thread-duo-xian-cheng.md)
   * [Python](programming-languages/python.md)
