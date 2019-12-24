@@ -24,7 +24,7 @@
   * [Leetcode前300高频题重新分类](untitled/leetcode-qian-300-gao-pin-ti-zhong-xin-fen-lei.md)
   * [1. Two Sum](untitled/1.-two-sum.md)
   * [Untitled](untitled/untitled.md)
-  * [Linked List Cycle](untitled/linked-list-cycle.md)
+  * [141. Linked List Cycle](untitled/linked-list-cycle.md)
   * [19. Remove Nth Node From End of List](untitled/19.-remove-nth-node-from-end-of-list.md)
   * [20. Valid Parentheses](untitled/20.-valid-parentheses.md)
   * [21. Merge Two Sorted Lists](untitled/21.-merge-two-sorted-lists.md)
