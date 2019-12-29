@@ -2,7 +2,7 @@
 
 [https://www.chegg.com/homework-help/questions-and-answers/sam-part-organizing-team-arranging-university-s-career-fair-list-companies-respective-arri-q39910793](https://www.chegg.com/homework-help/questions-and-answers/sam-part-organizing-team-arranging-university-s-career-fair-list-companies-respective-arri-q39910793)
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 ## Solution
 
@@ -14,7 +14,14 @@ class Solution {
     public int maxEvents(int n, int[] arrival, int[] duration) {
         Map<Integer, Integer> myMap = new TreeMap<>(); // <end time, index>
         for (int i = 0; i < n; i++) { // get a sorted by end time, events index
-            myMap.put(arrival[i] + duration[i], i);
+            if (myMap.get(arrival[i] + duration[i]) != null ) {
+                // if end time is duplicated, save the smaller duration
+                if (duration[i] < duration[myMap.get(arrival[i] + duration[i])]) {
+                    myMap.put(arrival[i] + duration[i], i);
+                }
+            } else {
+                myMap.put(arrival[i] + duration[i], i);
+            }
         }
         int scheduledEventsCount = 0;
         int prevIndex = -1;
