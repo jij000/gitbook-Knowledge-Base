@@ -16,6 +16,7 @@
     * [multiple thread 多线程](programming-languages/java/multiple-thread-duo-xian-cheng.md)
   * [Python](programming-languages/python.md)
 * [Design Patterns](design-patterns/README.md)
+  * [Database](design-patterns/database.md)
   * [Principle 原则](design-patterns/yuan-ze.md)
   * [Creational Design Pattern](design-patterns/creational-design-pattern.md)
   * [Structural Design Pattern](design-patterns/structural-design-pattern.md)
