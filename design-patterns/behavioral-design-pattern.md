@@ -54,7 +54,7 @@
 
 ![Strategy Pattern Class Diagram](../.gitbook/assets/image%20%2814%29.png)
 
-## Template Pattern 模板方法模式
+## Template Method Pattern 模板方法模式
 
 * 定义一个算法的骨架, 允许子类去实现其中的步骤
 * 可以一次性实现算法的不变部分, 把可变部分留给子类实现
