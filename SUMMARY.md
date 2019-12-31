@@ -32,6 +32,7 @@
   * [20. Valid Parentheses](untitled/20.-valid-parentheses.md)
   * [21. Merge Two Sorted Lists](untitled/21.-merge-two-sorted-lists.md)
   * [24. Swap Nodes in Pairs](untitled/24.-swap-nodes-in-pairs.md)
+  * [46. Permutations](untitled/46.-permutations.md)
   * [75. Sort Colors](untitled/75.-sort-colors.md)
   * [80. Remove Duplicates from Sorted Array II](untitled/80.-remove-duplicates-from-sorted-array-ii.md)
   * [88. Merge Sorted Array](untitled/88.-merge-sorted-array.md)
