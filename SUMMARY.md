@@ -8,6 +8,7 @@
     * [Tomcat](programming-languages/java/tomcat.md)
     * [Spring Data JPA](programming-languages/java/spring-data-jpa.md)
     * [Spring MVC](programming-languages/java/spring-mvc.md)
+    * [Spring Boot](programming-languages/java/spring-boot.md)
     * [Spring Cloud](programming-languages/java/untitled-1.md)
     * [Message Queue](programming-languages/java/message-queue.md)
     * [Tools, plugins](programming-languages/java/tools-plugins.md)
