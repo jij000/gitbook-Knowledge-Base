@@ -4,14 +4,14 @@
 
 * 为请求创建一个 接收此次请求对象 的链 \(一个请求需要多个对象协作处理\)
 * 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2869%29.png)
 
 ## Command Pattern 命令模式
 
 * 将"请求"封装成对象, 以便使用不同的请求
 * 解决了应用程序中对象的职责以及它们之间的通信方式
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 ## Interpreter Pattern 解释器模式
 
@@ -31,20 +31,20 @@
 
 * 保存一个对象的某个状态, 以便在适当的时候恢复对象
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2868%29.png)
 
 ## Observer Pattern 观察者模式
 
 * 定义了对象之间的一对多依赖, 让多个观察者对象同时监听某一个主题对象, 当主题对象发生变化时, 它的所有依赖者\(观察者\)都会收到通知并更新
 * 只要被观察的对象内容发生改变, 就自动调用notifyObservers方法去通知观察者类做更新
 
-![Observer Pattern Class Diagram ](../.gitbook/assets/image%20%289%29.png)
+![Observer Pattern Class Diagram ](../.gitbook/assets/image%20%2813%29.png)
 
 ## State Pattern 状态模式
 
 * 允许一个对象在其内部状态改变时, 改变它的行为
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 ## Strategy Pattern 策略模式
 
@@ -52,9 +52,9 @@
 * 消除大量的if...else...
 * 例如做一个促销策略接口, 各种促销类实现该接口, 然后再促销行为是选择合适的促销类来达到不同的促销方式, 常用于促销, 返利业务场景
 
-![Strategy Pattern Class Diagram](../.gitbook/assets/image%20%2810%29.png)
+![Strategy Pattern Class Diagram](../.gitbook/assets/image%20%2814%29.png)
 
-## Template Pattern 模板方法模式
+## Template Method Pattern 模板方法模式
 
 * 定义一个算法的骨架, 允许子类去实现其中的步骤
 * 可以一次性实现算法的不变部分, 把可变部分留给子类实现
@@ -65,5 +65,5 @@
 * 可以在不改变各元素的类的前提下, 定义作用于这些元素的操作
 * 通俗来说: 对相同的数据做不同的操作
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2858%29.png)
 
