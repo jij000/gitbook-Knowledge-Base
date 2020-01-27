@@ -3,7 +3,6 @@
 * [About Me](README.md)
 * [Programming Languages](programming-languages/README.md)
   * [Java](programming-languages/java/README.md)
-    * [Hibernate](programming-languages/java/hibernate.md)
     * [Spring Framework](programming-languages/java/spring-framework.md)
     * [Tomcat](programming-languages/java/tomcat.md)
     * [Spring Data JPA](programming-languages/java/spring-data-jpa.md)
